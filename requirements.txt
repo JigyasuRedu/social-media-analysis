@@ -1,0 +1,14 @@
+pandas
+numpy
+tweepy
+snscrape
+transformers
+torch
+nltk
+gensim
+scikit-learn
+matplotlib
+wordcloud
+streamlit
+emoji
+python-dotenv
